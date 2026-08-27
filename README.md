@@ -111,16 +111,9 @@ Appliance ON/OFF
 Update Blynk Dashboard
   ↓
 Repeat
-
-
 📊 Communication Method
 Wi-Fi Communication
 
 The ESP32 uses the built-in Wi-Fi module to communicate with Blynk Cloud.
 
 ESP32 → Wi-Fi Router → Blynk Cloud → Smartphone
-
-
-Conclusion
-
-The Home Automation System using ESP32 and Blynk demonstrates the practical implementation of IoT technology for smart appliance control. The project enables users to control electrical devices remotely through a smartphone application while also providing manual control through physical push buttons. The system is cost-effective, scalable, and suitable for modern smart home applications.
