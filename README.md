@@ -105,8 +105,11 @@ Button 4	GPIO 32
 The dashboard contains four virtual switches:
 
 V1 → Relay 1
+
 V2 → Relay 2
+
 V3 → Relay 3
+
 V4 → Relay 4
 
 Each switch controls one appliance.
